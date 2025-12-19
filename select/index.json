@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ミラーボール",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-19T13:35:04.728536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミラーボール",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_ミラーボール_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミラーボール",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_ミラーボール_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mirror Ball [ミラーボール]",
+      "artist": "clammbon",
+      "has_synced": false,
+      "path": "select/03_Mirror_Ball_[ミラーボール]_clammbon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミラーボール",
+      "artist": "Sano ibuki",
+      "has_synced": true,
+      "path": "select/04_ミラーボール_Sano_ibuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミラーボール",
+      "artist": "UNLIMITS",
+      "has_synced": true,
+      "path": "select/05_ミラーボール_UNLIMITS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミラーボール",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_ミラーボール_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ミラーボール",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_ミラーボール_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ミラーボール",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_ミラーボール_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ミラーボール",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_ミラーボール_東京事変.txt"
+    }
+  ]
+}
